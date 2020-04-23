@@ -1,0 +1,12 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Kyâne Pichou
+  description: Setup Docker
+  license: MIT
+  min_ansible_version: 2.14.4
+  platforms:
+    - name: Debian
+      versions:
+        - bookworm
