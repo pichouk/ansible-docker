@@ -29,7 +29,6 @@
     name:
       - python3-setuptools
       - python3-docker
-      - docker-compose
     state: present
 
 - name: Creates docker services folders
